@@ -1,0 +1,9 @@
+const String loginUrl = "user/login",
+    registerUrl = "user/register",
+    verifyUser = "user/verify",
+    fetchUser = "user/me",
+    updateUserUrl = "user/update",
+    forgotPasswordUrl = "user/forgot-password",
+    resetPasswordUrl = "user/reset-password",
+    updatePasseord = 'user/update-password',
+    sendVerificationSMS = "user/send-verification-code";
